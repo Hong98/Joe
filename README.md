@@ -1,6 +1,6 @@
-# Joe再续前缘
+# Joe Việt hóa
 
-> 一款基于Typecho博客的双栏极致优化主题
+> Một chủ đề tối ưu hóa cột hai cột dựa trên blog typecho
 
 - 官方通知群：[782778569](https://qm.qq.com/q/9qlyquSaXe)
 - 再续前缘版演示博客：<http://blog.yihang.info/archives/18.html>
