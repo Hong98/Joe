@@ -2,16 +2,16 @@
 
 > Một chủ đề tối ưu hóa cột hai cột dựa trên blog typecho
 
-- 官方通知群：[782778569](https://qm.qq.com/q/9qlyquSaXe)
-- 再续前缘版演示博客：<http://blog.yihang.info/archives/18.html>
-- 主题宗旨：简洁、优美、超强、开源、精华
+- Nhóm thông báo chính thức：[782778569](https://qm.qq.com/q/9qlyquSaXe)
+- Tiếp tục phiên bản trước của Blog Demo：<http://blog.yihang.info/archives/18.html>
+- Mục đích chủ đề: súc tích, đẹp, siêu, nguồn mở, bản chất
 
-## 前言
+## Lời mở đầu
 
-因为Joe主题作者不再更新，我便基于原主题 7.3.7 最新版开发了再续前缘版，秉承着原版作者大神免费开源的伟大初衷，再续前缘版是朝着简便实用的路线发展的。
-如果有问题可以跟我反馈，共同进步。祝各位道友一路飞升，顶峰相见！
+Bởi vì tác giả của chủ đề Joe không còn được cập nhật, tôi đã phát triển phiên bản RENENAL dựa trên phiên bản mới nhất của chủ đề gốc 7.3.7, tuân thủ ý định ban đầu tuyệt vời của tác giả gốc, phiên bản Renewal đang phát triển theo một tuyến đường đơn giản và thiết thực. 
+Nếu bạn có bất kỳ câu hỏi, bạn có thể phản hồi cho tôi và cùng nhau phát triển. Chúc tất cả những người theo Typecho gặp nhau trên đỉnh!
 
-## 主题简介
+## Giới thiệu chủ đề
 
 1. **全站使用自研TurboLinks单页模式实现无刷新切换页面**，却实现超强功能，极其迅速的响应（在开发时，都是使用30000篇文章进行开发测试）
 2. 全站变量名、类名统一规范，重在方便更多人参与二开与拓展
