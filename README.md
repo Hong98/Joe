@@ -3,7 +3,7 @@
 > Một chủ đề tối ưu hóa cột hai cột dựa trên blog typecho
 
 - Nhóm thông báo chính thức：[782778569](https://qm.qq.com/q/9qlyquSaXe)
-- Tiếp tục phiên bản trước của Blog Demo：<http://blog.yihang.info/archives/18.html>
+- Tiếp tục phiên bản trước của Blog：<http://blog.yihang.info/archives/18.html>
 - Mục đích chủ đề: súc tích, đẹp, siêu, nguồn mở, bản chất
 
 ## Lời mở đầu
@@ -13,38 +13,38 @@ Nếu bạn có bất kỳ câu hỏi, bạn có thể phản hồi cho tôi và
 
 ## Giới thiệu chủ đề
 
-1. **全站使用自研TurboLinks单页模式实现无刷新切换页面**，却实现超强功能，极其迅速的响应（在开发时，都是使用30000篇文章进行开发测试）
-2. 全站变量名、类名统一规范，重在方便更多人参与二开与拓展
-3. 主题开箱即用，没有任何复杂的操作，无需像其他主题去特意创建个分类等。
-4. 主题启用后，会置换Typecho的默认编辑器，采用 Joe 独家开发的编辑器
-5. 主题响应式布局，不依赖任何响应式框架，采用 Joe 独家响应式
-6. 主题在一切可能暴露的接口上，屏蔽sql注入、xss攻击风险，提供安全保障
-7. 内置超强视频功能、包含直播功能、全网影视功能、文章内插入视频功能
-8. 主题SEO极致优化，Lighthouse SEO跑分彪满100分
-9. 主题色彩全局公用、小白轻松直接修改整站自定义主题色
-10. 主题内置代码高亮、无需借助任何插件、支持200种语言
-11. 主题首发极强画图回复功能，为你的博客带来用户互动，不再像传统博客那样，仅限文字
-12. **主题内置sitemap、百度推送、友链、隐藏内容回复、付费、登录可见等，无需依赖任何插件**
-13. **主题内置Typecho后台独立友情链接管理面板，独立商品订单管理面板，无需依赖任何插件**
+1. Toàn bộ trang web sử dụng chế độ một trang **TurboLinks** do chính mình phát triển để đạt được khả năng chuyển đổi trang không làm mới, nhưng đạt được các chức năng siêu mạnh mẽ và phản hồi cực nhanh (trong quá trình phát triển, 30.000 bài viết đã được sử dụng để phát triển và thử nghiệm)
+2. Tên biến và tên lớp của toàn bộ site được chuẩn hóa, tập trung vào việc tạo điều kiện cho nhiều người tham gia hơn vào lần mở rộng và mở rộng thứ hai
+3. Chủ đề này có thể sử dụng ngay mà không cần bất kỳ thao tác phức tạp nào. Không cần phải tạo một danh mục cụ thể như các chủ đề khác.
+4. Sau khi chủ đề được bật, trình soạn thảo mặc định của typecho sẽ được thay thế, sử dụng trình chỉnh sửa được phát triển độc quyền bởi Joe
+5. Chủ đề có bố cục đáp ứng, không dựa vào bất kỳ khuôn khổ đáp ứng nào và sử dụng công nghệ đáp ứng độc quyền của Joe
+6. Chủ đề ngăn chặn các rủi ro của SQL Inject và XSS tấn công vào tất cả các giao diện có thể xảy ra và cung cấp các bảo đảm bảo mật
+7. Chức năng siêu video tích hợp, bao gồm chức năng phát sóng trực tiếp, chức năng phim và truyền hình toàn mạng và chèn chức năng video trong các bài viết
+8. Chủ đề SEO được tối ưu hóa cực kỳ tốt và Lighthouse SEO đạt được 100 điểm
+9. Màu chủ đề được chia sẻ trên toàn cầu và người mới có thể dễ dàng sửa đổi màu chủ đề tùy chỉnh của toàn bộ trang web
+10. Chủ đề có chức năng làm nổi bật mã tích hợp, không cần bất kỳ plugin nào và hỗ trợ 200 ngôn ngữ
+11. Chủ đề được ra mắt với chức năng trả lời hình ảnh mạnh mẽ, mang lại sự tương tác của người dùng vào blog của bạn, không còn giới hạn ở văn bản như các blog truyền thống
+12. **Chủ đề Sơ đồ trang web tích hợp, đẩy Baidu, liên kết thân thiện, trả lời nội dung ẩn, trả phí, đăng nhập hiển thị, v.v., mà không cần dựa vào bất kỳ plugin nào**
+13. **Chủ đề tích hợp Tayecho phụ thuộc vào bảng quản lý liên kết thân thiện độc lập, Bảng quản lý đơn đặt hàng sản phẩm độc lập, không cần phải dựa vào bất kỳ plugin nào**
 
-## 安装教程
+## Hướng dẫn cài đặt
 
-1. 首先下载 [Typecho正式版程序包](https://typecho.org/download)，解压压缩包到你新建的网站根目录中后访问你的网站网址进行安装
-2. 安装完成后将Joe再续前缘主题压缩包放入Typecho程序目录下 `usr/themes` 目录中
-3. 然后进入Typecho后台，选择控制台>外观>启用Joe再续前缘主题
-4. 恭喜你大功告成，可以开始创作啦！
+1. Tải xuống [Gói phiên bản chính thức của typecho](https://typecho.org/download), giải nén gói vào thư mục gốc của trang web mới được tạo của bạn và sau đó truy cập URL trang web của bạn để cài đặt.
+2. Sau khi cài đặt hoàn tất, hãy tải gói nén chủ đề Joe Việt hóa vào thư mục `usr/themes` trong thư mục Typecho
+3. Sau đó, đăng nhập vào Bảng điều khiển typecho, chọn Bảng điều khiển > Giao diện > Bật Joe Việt hóa
+4. Xin chúc mừng bạn đã hoàn thành và bạn có thể bắt đầu!
 
-## 主题下载
+## Tải xuống chủ đề
 
-[点击下载发布版](https://wwdd.lanzoue.com/b01kyo7na)
+[Tải xuống phiên bản phát hành](https://wwdd.lanzoue.com/b01kyo7na)
 
-提取码：6666
+Mật khẩu：6666
 
-## 编辑器说明图
+## Mô tả sơ đồ
 
-![Joe再续前缘编辑器说明图](http://storage.yihang.info/media/202207252029421.jpg)
+![Mô tả sơ đồ Joe](http://storage.yihang.info/media/202207252029421.jpg)
 
-## 主题目录介绍（非实时）
+## Giới thiệu về thư mục chủ đề (Không theo thời gian thực)
 
 ├── admin 主题后台面板
 
