@@ -46,11 +46,11 @@ Mật khẩu：6666
 
 ## Giới thiệu về thư mục chủ đề (Không theo thời gian thực)
 
-├── admin 主题后台面板
+├── admin Bảng điều khiển
 
-├── assets 主题静态资源
+├── assets Tài nguyên tĩnh
 
-├── module 一些共用的模块
+├── module Một số module phổ biến
 
 ├── options 主题设置文件夹
 
