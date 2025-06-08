@@ -52,11 +52,11 @@ Mật khẩu：6666
 
 ├── module Một số module phổ biến
 
-├── options 主题设置文件夹
+├── options Cài đặt
 
-├── public 主题公共文件夹
+├── public Thư mục công khai
 
-├── 404.php 404页面
+├── 404.php Trang 404
 
 ├── archive.php 搜索和分类页面
 
