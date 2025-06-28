@@ -58,11 +58,11 @@ Mật khẩu：6666
 
 ├── 404.php Trang 404
 
-├── archive.php 搜索和分类页面
+├── archive.php Các trang tìm kiếm và danh mục
 
-├── friends.php 友情链接页面
+├── friends.php Trang liên kết thân thiện
 
-├── functions.php 主题的核心文件
+├── functions.php Tập tin cốt lõi chủ đề
 
 ├── index.php 博客首页页面
 
