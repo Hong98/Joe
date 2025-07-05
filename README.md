@@ -64,36 +64,36 @@ Mật khẩu：6666
 
 ├── functions.php Tập tin cốt lõi chủ đề
 
-├── index.php 博客首页页面
+├── index.php Trang chủ
 
-├── leaving.php 留言板页面
+├── leaving.php Trang bảng tin
 
-├── live.php 虎牙直播页面
+├── live.php Trang trực tiếp
 
-├── page.php 独立页面
+├── page.php Trang độc lập
 
-├── post.php 文章页面
+├── post.php Trang bài viết
 
-├── screenshot.php 主题截图图片
+├── screenshot.php Hình ảnh chụp màn hình chủ đề
 
-├── video.php 全网影视页面
+├── video.php Trang phim
 
-└── wallpaper.php 壁纸页面
+└── wallpaper.php Trang hình nền
 
-## Joe再续前缘更新日志
+## Joe tiếp tục nhật ký cập nhật trước đây của mình
 
-[查看更新日志](/UPDATE.md)
+[Xem nhật ký cập nhật](/UPDATE.md)
 
-## 赞助名单
+## Danh sách tài trợ
 
-|  昵称   |  联系方式  | 赞助方式 | 赞助金额 |
+|  Tên   |  Thông tin  | Phương thức | Số tiền |
 |:------:|:----------:|:----:|:----:|
-| 爱意随风起 | 36****0236 | 微信 | 8.88 |
+| 爱意随风起 | 36****0236 | WeChat | 8.88 |
 | 爱意随风起 | 33****7369 | ＱＱ | 1.00 |
 
-## 耻辱柱
+## Trụ cột xấu hổ
 
-> **开源不代表可以肆意的修改版权链接，尊重开源精神，谢谢🌹**
+> **Nguồn mở không có nghĩa là các liên kết bản quyền có thể được sửa đổi tùy ý. Tôn trọng tinh thần của nguồn mở. Cảm ơn bạn 🌹**
 
-| 网站名称 | 联系方式 | 链接 | 原因 |
+| Tên trang web | Thông tin | Liên kết | Lý do |
 | - | - | - | - |
