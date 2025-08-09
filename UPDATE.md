@@ -1,9 +1,9 @@
-## Joe再续前缘更新日志
+## Joe Nhật ký cập nhật
 
 ## 1.00
 
-- 修复文章模块meta标签关键词和描述无自定义时为空
-- 修复视频播放器视频路径带有&等特殊字符会发生错误
+- Đã sửa lỗi bài viết mô -đun meta từ khóa và mô tả trống khi không có tùy chỉnh
+- Đã sửa lỗi trong đường dẫn video của trình phát video với các ký tự đặc biệt như & &
 - 修复搜索、分类、标签等文章列表中 “找到 \* 篇与 \*\* 的结果” 中 \*\* 不显示的错误
 - 修复移动端侧边栏图片封面右边多出的白色边框
 - 修复友链页面站点介绍过多导致卡片高度不一的BUG
