@@ -4,13 +4,13 @@
 
 - Đã sửa lỗi bài viết mô -đun meta từ khóa và mô tả trống khi không có tùy chỉnh
 - Đã sửa lỗi trong đường dẫn video của trình phát video với các ký tự đặc biệt như & &
-- 修复搜索、分类、标签等文章列表中 “找到 \* 篇与 \*\* 的结果” 中 \*\* 不显示的错误
-- 修复移动端侧边栏图片封面右边多出的白色边框
-- 修复友链页面站点介绍过多导致卡片高度不一的BUG
-- 修复自定义多级分类的情况下网站地图生成url显示不正确的bug，暂时只支持2级分类
-- 新增视频可设置自动播放，src路径带上参数 autoplay=true 即可
-- 新增首页和其他页面文章可设置打开的窗口模式
-- 新增展示百度站点统计功能
+- Đã sửa lỗi mà \*\*không hiển thị trong "Tìm kết quả của \*và \*\*" trong danh sách bài viết tìm kiếm, danh mục, nhãn, v.v.
+- Đã sửa đường viền màu trắng ở phía bên phải của bìa hình ảnh của thanh bên di động
+- Đã sửa lỗi trong đó quá nhiều trang web trên trang liên kết dẫn đến các thẻ khác nhau.
+- Đã sửa lỗi trong đó bản đồ trang web tạo hiển thị URL không chính xác trong trường hợp phân loại đa cấp tùy chỉnh. Chỉ phân loại cấp 2 được hỗ trợ cho thời điểm hiện tại
+- Đã thêm các video mới để đặt tự động phát lại và đường dẫn SRC có thể được theo sau bởi tham số autoplay = true
+- Thêm trang chủ mới và các bài viết trang khác để đặt chế độ cửa sổ mở
+- Đã thêm chức năng thống kê trang web Baidu
 - 新增移动端侧边栏显示登录注册等操作
 - 新增可设置QQ微信打开网站跳转浏览器的防红功能，打开后QQ内可直接调用QQ浏览器 UC浏览器 打开网址
 - 新增开启关闭文章评论画图模式功能
