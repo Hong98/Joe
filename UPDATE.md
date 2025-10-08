@@ -11,8 +11,8 @@
 - Đã thêm các video mới để đặt tự động phát lại và đường dẫn SRC có thể được theo sau bởi tham số autoplay = true
 - Thêm trang chủ mới và các bài viết trang khác để đặt chế độ cửa sổ mở
 - Đã thêm chức năng thống kê trang web Baidu
-- 新增移动端侧边栏显示登录注册等操作
-- 新增可设置QQ微信打开网站跳转浏览器的防红功能，打开后QQ内可直接调用QQ浏览器 UC浏览器 打开网址
+- Đã thêm thanh bên bên di động để hiển thị hoạt động đăng nhập và đăng ký
+- Đã thêm chức năng chống đỏ của việc thiết lập QQ WeChat để mở trang web và nhảy vào trình duyệt. Sau khi mở nó, bạn có thể gọi trực tiếp trình duyệt của trình duyệt QQ để mở URL
 - 新增开启关闭文章评论画图模式功能
 - 新增首页文章列表可分别放置移动端和PC端谷歌广告代码，可设置两处展示位置或关闭
 - 新增博主栏鼠标移入漂浮物可设置显示或隐藏
