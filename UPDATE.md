@@ -13,8 +13,8 @@
 - Đã thêm chức năng thống kê trang web Baidu
 - Đã thêm thanh bên bên di động để hiển thị hoạt động đăng nhập và đăng ký
 - Đã thêm chức năng chống đỏ của việc thiết lập QQ WeChat để mở trang web và nhảy vào trình duyệt. Sau khi mở nó, bạn có thể gọi trực tiếp trình duyệt của trình duyệt QQ để mở URL
-- 新增开启关闭文章评论画图模式功能
-- 新增首页文章列表可分别放置移动端和PC端谷歌广告代码，可设置两处展示位置或关闭
+- Thêm chức năng bật, tắt chế độ vẽ bình luận bài viết
+- Danh sách bài viết trên trang chủ mới được thêm vào có thể đặt mã quảng cáo Google trên thiết bị di động và PC tương ứng và có thể đặt hai vị trí hoặc tắt chúng.
 - 新增博主栏鼠标移入漂浮物可设置显示或隐藏
 - 新增评论模块自动记住网址
 - 新增评论模块评论失败后返回原因
