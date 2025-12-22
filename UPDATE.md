@@ -15,9 +15,9 @@
 - Đã thêm chức năng chống đỏ của việc thiết lập QQ WeChat để mở trang web và nhảy vào trình duyệt. Sau khi mở nó, bạn có thể gọi trực tiếp trình duyệt của trình duyệt QQ để mở URL
 - Thêm chức năng bật, tắt chế độ vẽ bình luận bài viết
 - Danh sách bài viết trên trang chủ mới được thêm vào có thể đặt mã quảng cáo Google trên thiết bị di động và PC tương ứng và có thể đặt hai vị trí hoặc tắt chúng.
-- 新增博主栏鼠标移入漂浮物可设置显示或隐藏
-- 新增评论模块自动记住网址
-- 新增评论模块评论失败后返回原因
+- Đã thêm một thanh blogger mới. Di chuyển chuột vào đối tượng nổi để đặt nó hiển thị hoặc ẩn.
+- Đã thêm mô-đun nhận xét để tự động ghi nhớ URL
+- Thêm mô-đun bình luận để trả về lý do sau khi bình luận không thành công
 - 新增必应收录推送
 - 新增自定义站点引入文件源，可把静态文件存入云存储空间内，如：七牛云
 - 优化大部分按钮背景颜色为渐变色
