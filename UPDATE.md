@@ -18,9 +18,9 @@
 - Đã thêm một thanh blogger mới. Di chuyển chuột vào đối tượng nổi để đặt nó hiển thị hoặc ẩn.
 - Đã thêm mô-đun nhận xét để tự động ghi nhớ URL
 - Thêm mô-đun bình luận để trả về lý do sau khi bình luận không thành công
-- 新增必应收录推送
-- 新增自定义站点引入文件源，可把静态文件存入云存储空间内，如：七牛云
-- 优化大部分按钮背景颜色为渐变色
+- Đã thêm tính năng đẩy bao gồm Bing
+- Thêm một trang tùy chỉnh mới để giới thiệu nguồn tệp và lưu trữ các tệp tĩnh trong không gian lưu trữ đám mây, chẳng hạn như: Qiniu Cloud
+- Tối ưu hóa màu nền của hầu hết các nút thành màu chuyển sắc
 - 修改移动端同PC端一样会展示四个文章筛选项
 - 修改文章模块H2标题和H3标题的左边框颜色为渐变色
 - 优化页面初次进入时的加载速度，npm CDN转为Staticfile CDN
